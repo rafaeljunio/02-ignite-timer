@@ -16,9 +16,6 @@ export const HomeContainer = styled.div`
   }
 `;
 
-
-
-
 export const BaseCountdownButton = styled.button`
   width: 100%;
   border: 0;
